@@ -1,6 +1,6 @@
 @tool
 extends EditorPlugin
-class_name TBPlugin
+# class_name TBPlugin
 
 var map_control: Control = null
 var editing_loader: WeakRef = weakref(null)
